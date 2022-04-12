@@ -1,0 +1,9 @@
+.greetings-container{
+    border: solid;
+    border-width: medium;
+    border-right: 10%;
+}
+
+.p {
+    font-size: 30px;
+}
